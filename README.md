@@ -1,8 +1,3 @@
-# Jeu_GlaDeateur
+# Game_GlaDeateur
 
-Les GlaDÉateurs est la version logicielle du jeu de société Strike !, un jeu de dés qui mêle
-action et stratégie. Plusieurs joueurs s’affrontent en lançant des dés dans une arène à tour
-de rôle, et ces dés peuvent être laissés dans l’arène, récupérés par le joueur venant de les
-lancer, ou supprimés de la partie, selon la valeur sur laquelle ils sont tombés. La partie se
-termine quand un joueur a éliminé tous ses adversaires ou, en d’autres mots, lorsqu’il est le
-seul à encore posséder des dés.
+Les GladÉateurs is the software version of the board game Strike!, a dice game that mixes action and strategy. Several players compete by rolling dice in an arena in turn, and these dice can be left in the arena, collected by the player who just threw them, or removed from the game, depending on the value they are on. fallen down. The game ends when a player has eliminated all his opponents or, in other words, when he is the only one who still has dice.
